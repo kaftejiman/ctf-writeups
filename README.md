@@ -1,7 +1,7 @@
 # Writeups
-Some documented attempts at Capture The Flag tasks.
+*Some documented attempts at Capture The Flag tasks.*
 
-## [Pragyan20 AskTheOracle]()
+## [Pragyan20 AskTheOracle](https://github.com/kaftejiman/ctf-writeups/tree/main/Pragyan20)
 **Straightforward [Oracle Padding Attack](https://en.wikipedia.org/wiki/Padding_oracle_attack)**
 
 ## [BambooCTF21 The Vault](https://github.com/kaftejiman/ctf-writeups/tree/main/BamboCTF21)
